@@ -1,0 +1,31 @@
+# Mapfile. Created by GNU ddrescue version 1.28
+# Command line: ddrescue -d -r1 -b2048 /dev/sr1 cdimage mapfile
+# Start time:   2024-12-08 20:46:51
+# Current time: 2024-12-08 20:51:57
+# Retrying bad sectors... Retry 1 (forwards)
+# current_pos  current_status  current_pass
+0x2ACCE800     -               1
+#      pos        size  status
+0x00000000  0x2AC69800  +
+0x2AC69800  0x00000800  -
+0x2AC6A000  0x00016000  +
+0x2AC80000  0x00000800  -
+0x2AC80800  0x00016000  +
+0x2AC96800  0x00000800  -
+0x2AC97000  0x0000A800  +
+0x2ACA1800  0x00000800  -
+0x2ACA2000  0x00016000  +
+0x2ACB8000  0x00000800  -
+0x2ACB8800  0x00016000  +
+0x2ACCE800  0x00000800  -
+0x2ACCF000  0x0000A000  +
+0x2ACD9000  0x00000800  -
+0x2ACD9800  0x00016800  +
+0x2ACF0000  0x00001000  -
+0x2ACF1000  0x00015000  +
+0x2AD06000  0x00001000  -
+0x2AD07000  0x00016000  +
+0x2AD1D000  0x00000800  -
+0x2AD1D800  0x0004D800  +
+0x2AD6B000  0x00001000  -
+0x2AD6C000  0x00F85800  +

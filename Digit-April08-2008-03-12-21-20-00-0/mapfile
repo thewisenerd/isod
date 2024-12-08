@@ -1,0 +1,13 @@
+# Mapfile. Created by GNU ddrescue version 1.28
+# Command line: ddrescue -d -r1 -b2048 /dev/sr1 cdimage mapfile
+# Start time:   2024-12-08 20:57:40
+# Current time: 2024-12-08 20:59:15
+# Finished
+# current_pos  current_status  current_pass
+0x2AD06800     +               1
+#      pos        size  status
+0x00000000  0x2AC69800  +
+0x2AC69800  0x00000800  -
+0x2AC6A000  0x00016000  +
+0x2AC80000  0x00000800  -
+0x2AC80800  0x01071000  +
