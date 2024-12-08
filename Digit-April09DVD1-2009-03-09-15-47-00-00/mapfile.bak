@@ -1,0 +1,12 @@
+# Mapfile. Created by GNU ddrescue version 1.28
+# Command line: ddrescue -R -n -b2048 -v /dev/sr2 cdimage mapfile
+# Start time:   2024-12-08 01:05:55
+# Current time: 2024-12-08 01:10:59
+# Copying non-tried blocks... Pass 2 (forwards)
+# current_pos  current_status  current_pass
+0x1946D0000     ?               2
+#      pos        size  status
+0x00000000  0xFD969000  +
+0xFD969000  0x00007000  *
+0xFD970000  0x96D70000  +
+0x1946E0000  0x66BE8000  ?
